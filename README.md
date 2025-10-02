@@ -31,8 +31,21 @@ This repository contains a numerical model for simulating Snowball Earth conditi
 
 ## Usage
 
-### Running the Model
-Simply run the main Python script:
+### Quick Start with Examples
+For a guided introduction, run the examples script:
+```bash
+python examples.py
+```
+
+This will walk you through:
+- Current Earth conditions
+- Reduced solar input scenarios
+- Energy balance calculations
+- Finding the Snowball threshold
+- Creating visualizations
+
+### Running the Full Model
+Run the complete Snowball Earth experiment:
 ```bash
 python snowball_earth_model.py
 ```
